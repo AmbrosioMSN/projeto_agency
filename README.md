@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AGENCY
 
 <p align="center">O projeto agency foi criando no curso de sass para explicar e ensinar as funções do sass e a sintaxe de um projeto simples.</p>
@@ -52,4 +53,6 @@ $ code .
 
 
 
+=======
+>>>>>>> 0f0ee64418c6f71f212a0c2d5e5948b0adceba30
 
